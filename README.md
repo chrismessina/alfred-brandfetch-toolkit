@@ -37,4 +37,4 @@ Thanks to [vitor](http://vitorgalvao.com) for his help in [writing the AppleScri
 
 You can [file bugs](https://github.com/chrismessina/alfred-brandfetch-toolkit/issues/new) or [submit feature requests](https://github.com/chrismessina/alfred-brandfetch-toolkit/issues/new) on GitHub using the label `enhancement`.
 
-Discuss on <a href="https://www.alfredforum.com/">Alfred Forum</a>.
+Discuss on <a href="https://www.alfredforum.com/topic/16286-open-current-url-on-brandfetch/">Alfred Forum</a>.
