@@ -16,7 +16,13 @@ _You will need to be an [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 
 # Usage
 
+<img src="./assets/brandfetch-workflow.png" alt="Brandfetch Workflow">
+
 Set a custom keyboard shortcut to grab the URL from the frontmost browser window and send it to Brandfetch.
+
+For example, when you visit a page on apple.com, you can use this worklflow to open the corresponding [Brandfetch page for Apple](https://brandfetch.io/apple.com):
+
+<img src="./assets/brandfetch-preview.gif" alt="Brandfetch Preview">
 
 # Changelog[¹](https://keepachangelog.com/)
 
@@ -27,6 +33,8 @@ Set a custom keyboard shortcut to grab the URL from the frontmost browser window
 
 This workflow is unaffiliated with nor endorsed by Brandfetch.
 
-You can [file bugs](https://github.com/chrismessina/alfred-brandfetch-toolkit/issues/new) or [submit feature requests](https://github.com/chrismessina/alfred-brandfetch-toolkit/issues/new) on GitHub using the label `feature-request`.
+Thanks to [vitor](http://vitorgalvao.com) for his help in [writing the AppleScript](https://www.alfredforum.com/topic/15887-solved-workflow-to-append-current-browser-url-to-another-url/?do=findComment&comment=81012).
+
+You can [file bugs](https://github.com/chrismessina/alfred-brandfetch-toolkit/issues/new) or [submit feature requests](https://github.com/chrismessina/alfred-brandfetch-toolkit/issues/new) on GitHub using the label `enhancement`.
 
 Discuss on <a href="https://www.alfredforum.com/">Alfred Forum</a>.
